@@ -1,0 +1,10 @@
+{
+    "compilerOptions": { 
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": false,
+        "out": "../output/phaser-buttonLabel.js",
+        "target": "es5"
+    }
+}
